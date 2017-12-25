@@ -1,0 +1,2 @@
+创建用户：create user test identified by 111111;
+用户权限：grant create sessinn to test;
